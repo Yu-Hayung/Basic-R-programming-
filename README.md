@@ -4,6 +4,8 @@
 
 ---
 ## R_programming Algorithm basic problem
+> " https://www.w3resource.com/r-programming-exercises/ " <- R 연습문제 
+
 R 언어 훈련으로 Algorithm basic problem 을 풀어 보았다. 
 실습문제가 필요하다면 하단부 링크를 참고
 
